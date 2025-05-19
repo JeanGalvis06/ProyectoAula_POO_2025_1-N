@@ -9,7 +9,7 @@ import javax.swing.*;
  * @author Jean
  */
 public class Main {
-
+    
     private final MainView mainView;
 
     public Main() {
